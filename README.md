@@ -1,2 +1,2 @@
 # Python-Seaborn-Library-Tutorial
-Seaborn Tutorial for Beginners
+In this project I did simple exercises using the most used data visualization tools in the python seaborn library, enjoyable work :)
